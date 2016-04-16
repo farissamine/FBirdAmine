@@ -64,9 +64,9 @@ public class Game {
 		long timeAtLastFPSCheck = 0;
 		int ticks = 0;
 		
-		boolean running = true;
+		//boolean running = true;
 		
-		while(running){
+		while(true){
 			//Updating
 			loops = 0;
 			
